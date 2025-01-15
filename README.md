@@ -29,8 +29,7 @@ The `CIMDL.py` file located in the `models` folder is the model file, which cont
 
 The `run.py`, `train_eval.py`, and `utils.py` files are responsible for the project's operation, training, and processing respectively. 
 
-Additionally, the pre-trained embedding is also stored in the directory.
-
+Additionally, the pre-trained model we used was downloaded from: [https://huggingface.co/DMetaSoul/sbert-chinese-qmc-domain-v1](https://huggingface.co/hfl/chinese-roberta-wwm-ext) and [https://huggingface.co/DMetaSoul/sbert-chinese-qmc-domain-v1.](https://huggingface.co/DMetaSoul/sbert-chinese-qmc-domain-v1)
 
 ## Running
 ```
