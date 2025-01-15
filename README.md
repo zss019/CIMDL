@@ -7,7 +7,7 @@ Part of code is based on the [Multi-architecture Open-source Chinese Text Classi
 
 ## Dataset
 
-ScienceNet_dataset and zhihu_dataset are two benchmark datasets we have constructed, which have been divided into train/dev/test sets.
+`ScienceNet_dataset` and `zhihu_dataset` are two benchmark datasets we have constructed, which have been divided into train/dev/test sets.
 
 We crawled users' opinion interaction records and manually annotated them.
 
