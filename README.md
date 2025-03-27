@@ -3,7 +3,7 @@
 ## Introduction
 Source code of paper: "Online Opinion Conflict Interaction Recognition Based on Dependent Multi-Task Deep Learning".
 
-Part of code (particularly data processing and loading, as well as model running) is based on the [Multi-architecture Open-source Chinese Text Classification] (https://github.com/649453932/Chinese-Text-Classification-Pytorch) project and has undergone significant modifications and adjustments.
+Part of code (particularly data processing and loading) is based on the [Multi-architecture Open-source Chinese Text Classification] (https://github.com/649453932/Chinese-Text-Classification-Pytorch) project and has undergone significant modifications and adjustments.
 
 ## Dataset
 
