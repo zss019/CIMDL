@@ -6,6 +6,9 @@ Accepted by ICWSM 2026 (International AAAI Conference on Web and Social Media).
 
 Part of code (particularly data processing and loading) is based on the [Multi-architecture Open-source Chinese Text Classification] (https://github.com/649453932/Chinese-Text-Classification-Pytorch) project and has undergone significant modifications and adjustments.
 
+## Online Appendix
+This is the online appendix https://github.com/zss019/CIMDL/blob/main/online_appendix.pdf for the paper, which includes “Appendix A. Prompts for LLM in the Experiment” and “Appendix B. Case Analysis”. These appendices constitute the supplementary material​ for the experimental analysis in the paper.
+
 ## Dataset
 
 `ScienceNet_dataset` and `zhihu_dataset` are two benchmark datasets we have constructed, which have been divided into train/dev/test sets.
