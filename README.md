@@ -2,7 +2,8 @@
 
 ## Introduction
 Source code of paper: "**Online Opinion Conflict Interaction Recognition Based on Dependent Multi-Task Deep Learning**". 
-Accepted by **ICWSM** 2026 (*The 20th International AAAI Conference on Web and Social Media*, Los Angeles).
+
+Accepted by **ICWSM 2026** (*The 20th International AAAI Conference on Web and Social Media*, Los Angeles).
 
 ## Online Appendix
 This is the online appendix https://github.com/zss019/CIMDL/blob/main/online_appendix.pdf for the paper, which includes “Appendix A. Prompts for LLM in the Experiment” and “Appendix B. Case Analysis”. These appendices constitute the supplementary material​ for the experimental analysis in the paper.
