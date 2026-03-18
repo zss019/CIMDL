@@ -1,8 +1,8 @@
 # CIMDL
 
 ## Introduction
-Source code of paper: "Online Opinion Conflict Interaction Recognition Based on Dependent Multi-Task Deep Learning". 
-Accepted by ICWSM 2026 (The 20th International AAAI Conference on Web and Social Media, Los Angeles).
+Source code of paper: "**Online Opinion Conflict Interaction Recognition Based on Dependent Multi-Task Deep Learning**". 
+Accepted by **ICWSM** 2026 (*The 20th International AAAI Conference on Web and Social Media*, Los Angeles).
 
 ## Online Appendix
 This is the online appendix https://github.com/zss019/CIMDL/blob/main/online_appendix.pdf for the paper, which includes “Appendix A. Prompts for LLM in the Experiment” and “Appendix B. Case Analysis”. These appendices constitute the supplementary material​ for the experimental analysis in the paper.
@@ -10,6 +10,7 @@ This is the online appendix https://github.com/zss019/CIMDL/blob/main/online_app
 ## Dataset
 
 `ScienceNet_dataset` and `zhihu_dataset` are two benchmark datasets we have constructed, which have been divided into train/dev/test sets. We crawled users' opinion interaction records and manually annotated them.
+
 Zhihu dataset consists of comments and corresponding replies in Q&A thread on selected controversial topics. These interactions were annotated as “Support” and “Conflict”.
 ScienceNet dataset includes comments and replies on the web-blogs about scientific or academic topics. In addition to “Support” and “Conflict” , we have also annotated “Neutral” for some smooth interaction.
 
